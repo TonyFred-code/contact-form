@@ -6,7 +6,7 @@ export default function App() {
       required Query Type General Enquiry Support Request Please select a query
       type Message This field is required I consent to being contacted by the
       team To submit this form, please consent to being contacted Submit Message
-      Sent! Thanks for completing the form. We'll be in touch soon!
+      Sent! Thanks for completing the form. We&apos;ll be in touch soon!
     </div>
   );
 }
